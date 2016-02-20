@@ -57,7 +57,7 @@ public class TextBuddy2 {
 	private static void welcomeMsg(String fileName) {
 		System.out.println(String.format(MESSAGE_WELCOME, fileName));
 	}
-
+	//System.out.println(String.format(MESSAGE_WELCOME, fileName));
 	/**
 	 * Executes the commands the user give
 	 */
